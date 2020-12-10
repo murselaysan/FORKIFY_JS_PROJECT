@@ -1,6 +1,0 @@
-
-const showRecipe = recipe => {
-    
-};
-
-

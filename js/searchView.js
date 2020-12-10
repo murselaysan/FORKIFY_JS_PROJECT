@@ -1,7 +1,0 @@
-
-const renderRecipe = recipe => {
-    
-    
-
-};
-
